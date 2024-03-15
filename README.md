@@ -1,2 +1,2 @@
 # Graph-Coloring
-Incremental Search Heuristic
+pSS.cpp is the file to color graph 
